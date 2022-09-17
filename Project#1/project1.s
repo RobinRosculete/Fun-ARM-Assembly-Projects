@@ -1,4 +1,3 @@
-;Project #1 Rosculete Robin
 .equ SWI_Open, 0x66 ;open a file
 .equ SWI_Close,0x68 ;close a file
 .equ SWI_PrChr,0x00 ; Write an ASCII char to Stdout
